@@ -1,0 +1,110 @@
+.navBarText {
+    margin-left: 10px !important;
+    font-size  : 17px;
+    margin-top : 13px;
+  }
+  
+  .chat-list {
+    height          : 74vh;
+    background-color: white;
+  }
+  
+  .message-list {
+    height      : 68vh;
+    border-left : 2px solid #f4f4f4;
+    border-right: 2px solid #f4f4f4;
+  }
+  
+  .user-list {
+    height    : auto;
+    overflow-y: scroll;
+  
+  }
+  
+  .message {
+    margin-top: 10px;
+  }
+  
+  .rce-mbox-text {
+    padding: 3px;
+  }
+  
+  .rce-mbox {
+    background-color: antiquewhite !important;
+  }
+  
+  .rce-mbox-right-notch {
+    fill: aliceblue !important;
+  }
+  
+  .rce-mbox-left-notch {
+    fill: antiquewhite !important;
+  }
+  
+  .rce-mbox-right {
+    background-color: aliceblue !important;
+  }
+  
+  body {
+    background-color: whitesmoke;
+  }
+  
+  .form-group {
+    border: 2px solid #f4f4f4;
+  }
+  
+  .btn-flat {
+    background-color: #ff6918;
+    color           : white;
+    text-transform  : uppercase;
+  }
+  
+  .btn-xxl {
+    padding  : 1rem 1.5rem;
+    font-size: 1.5rem;
+  }
+  
+  .list {
+    background-color: black;
+  }
+  
+  .chat-box {
+    background-color:black;
+  }
+  
+  .user-sign-in {
+    background-color: whitesmoke;
+  }
+  
+  .jumbotron {
+    background : #ff6918;
+    color      : white;
+    font-family: Avenir-Book, sans-serif;
+  }
+  
+  .search-bar {
+    background : white;
+    font-family: Avenir-Book, sans-serif;
+  
+  }
+  
+  .modal-sign-in {
+    background : whitesmoke !important;
+    font-family: Avenir-Book, sans-serif;
+  }
+  
+  .nav-bar {
+    background: #ff6918;
+    color     : whitesmoke;
+  }
+  
+  .nav-bar-header {
+    font-family: Avenir-Roman, sans-serif;
+    color      : whitesmoke !important;
+  }
+  
+  .sendButton {
+    background    : #ff6918;
+    color         : whitesmoke;
+    text-transform: uppercase;
+  }
